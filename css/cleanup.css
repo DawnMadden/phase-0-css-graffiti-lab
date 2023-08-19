@@ -1,1 +1,35 @@
+
 /* write your override styles here */
+#wall .tag-1 {
+  display: none;
+  opacity: 0.5;
+  size-adjust: 50%;
+  padding:20px;
+};
+#wall .tag-2 {
+  display: none;
+  opacity: 0.5;
+  size-adjust: 50%;
+  padding: 10px;
+};
+#wall .tag-3 {
+  display: none;
+  opacity: 0.5;
+  size-adjust: 50%;
+  padding-inline-start: 20pn;
+};
+#wall .tag-4 {
+  display: none;
+  size-adjust: 50%;
+  padding:20px;
+};
+#wall .tag-5 {
+  display: none;
+  size-adjust: 50%;
+  float:left;
+};
+#wall .tag-6 {
+  display: none;
+  size-adjust: 50%;
+  float:right;
+};
